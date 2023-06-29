@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 03.PeriodicTable">
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_04_CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_05_Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_06_FixEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_07_HandsOfCards.java" afterDir="false" />
+    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards">
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._07_HandsOfCards">
-    <configuration name="_02_SetsOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._02_SetsOfElements" />
-      <module name="Java Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._08_UserLogs">
     <configuration name="_03_PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._03_PeriodicTable" />
       <module name="Java Advanced" />
@@ -116,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_08_UserLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._08_UserLogs" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._08_UserLogs" />
         <item itemvalue="Application._07_HandsOfCards" />
         <item itemvalue="Application._05_Phonebook" />
         <item itemvalue="Application._04_CountSymbols" />
         <item itemvalue="Application._03_PeriodicTable" />
-        <item itemvalue="Application._02_SetsOfElements" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688065516714</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards">
+      <option name="closed" value="true" />
+      <created>1688076311159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688076311159</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +206,18 @@
     <MESSAGE value="Added task 02.SimpleCalculator" />
     <MESSAGE value="Added finished task 02.SimpleCalculator" />
     <MESSAGE value="Added task 03.PeriodicTable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task 03.PeriodicTable" />
+    <MESSAGE value="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
