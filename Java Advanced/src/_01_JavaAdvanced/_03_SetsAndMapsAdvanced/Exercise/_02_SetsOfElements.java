@@ -3,7 +3,6 @@ package _01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
-import java.util.TreeSet;
 
 public class _02_SetsOfElements {
     public static void main(String[] args) {
