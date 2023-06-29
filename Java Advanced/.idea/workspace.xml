@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added finished task 02.SimpleCalculator">
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_01_UniqueUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_02_SetsOfElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_03_PeriodicTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_03_PeriodicTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._02_SetsOfElements">
+  <component name="RunManager" selected="Application._03_PeriodicTable">
     <configuration name="_01_UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._01_UniqueUsernames" />
       <module name="Java Advanced" />
@@ -88,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_03_PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._03_PeriodicTable" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_PeriodicTable" />
         <item itemvalue="Application._02_SetsOfElements" />
         <item itemvalue="Application._01_UniqueUsernames" />
         <item itemvalue="Application._02_SimpleCalculator" />
@@ -129,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688061541427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added finished task 02.SimpleCalculator">
+      <option name="closed" value="true" />
+      <created>1688064660336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688064660336</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added finished task 02.SimpleCalculator">
+      <option name="closed" value="true" />
+      <created>1688064730163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688064730163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
