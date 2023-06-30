@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards">
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_09_PopulationCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._08_UserLogs">
-    <configuration name="_03_PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._03_PeriodicTable" />
-      <module name="Java Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._09_PopulationCounter">
     <configuration name="_04_CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._04_CountSymbols" />
       <module name="Java Advanced" />
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_09_PopulationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._09_PopulationCounter" />
+      <module name="Java Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._09_PopulationCounter" />
         <item itemvalue="Application._08_UserLogs" />
         <item itemvalue="Application._07_HandsOfCards" />
         <item itemvalue="Application._05_Phonebook" />
         <item itemvalue="Application._04_CountSymbols" />
-        <item itemvalue="Application._03_PeriodicTable" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688076311159</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards">
+      <option name="closed" value="true" />
+      <created>1688079485493</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688079485493</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,8 +222,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java</url>
-          <line>35</line>
+          <line>34</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_09_PopulationCounter.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
