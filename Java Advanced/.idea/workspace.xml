@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 12.SrubskoUnleashed">
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_01_OpinionPoll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_01_OpinionPoll/Person.java" afterDir="false" />
+    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 01.OpinionPoll -&gt; Defining Classes">
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_03_DecimalToBinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_04_MatchingBrackets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Department.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_01_CarTask/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_01_CarTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_02_BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_02_BankAccount/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application._04_MatchingBrackets">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._06_DefiningClasses.Exercises._01_OpinionPoll.Main" />
       <module name="Java Advanced" />
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._07_HandsOfCards" />
+    <configuration name="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_08_UserLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._08_UserLogs" />
+    <configuration name="_02_SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._02_SimpleCalculator" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_PopulationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._09_PopulationCounter" />
+    <configuration name="_03_DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._03_DecimalToBinaryConverter" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12_SrubskoUnleashed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise._12_SrubskoUnleashed" />
+    <configuration name="_04_MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._04_MatchingBrackets" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._04_MatchingBrackets" />
+        <item itemvalue="Application._03_DecimalToBinaryConverter" />
+        <item itemvalue="Application._02_SimpleCalculator" />
+        <item itemvalue="Application._01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application._12_SrubskoUnleashed" />
-        <item itemvalue="Application._09_PopulationCounter" />
-        <item itemvalue="Application._08_UserLogs" />
-        <item itemvalue="Application._07_HandsOfCards" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688320837240</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added task 01.OpinionPoll -&gt; Defining Classes">
+      <option name="closed" value="true" />
+      <created>1688395922970</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688395922970</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +249,8 @@
     <MESSAGE value="Added task 04.CountSymbols, 05.Phonebook, 06.FixEmails, 07.HandsOfCards" />
     <MESSAGE value="Added task 09.PopulationCenter" />
     <MESSAGE value="Added task 12.SrubskoUnleashed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task 12.SrubskoUnleashed" />
+    <MESSAGE value="Added task 01.OpinionPoll -&gt; Defining Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task 01.OpinionPoll -&gt; Defining Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,6 +259,11 @@
           <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java</url>
           <line>34</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_04_MatchingBrackets.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
