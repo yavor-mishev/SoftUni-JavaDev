@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 01.OpinionPoll -&gt; Defining Classes">
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_03_DecimalToBinaryConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_04_MatchingBrackets.java" afterDir="false" />
+    <list default="true" id="4fbc1c0f-2dc0-4e3a-87e3-49e11949b37f" name="Changes" comment="Added task 03.DecimalToBinaryConverter and 04.MarchingBrackets -&gt; Stacks and Queues">
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_05_PrinterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_06_HotPotato.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Department.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Exercises/_02_CompanyRoaster/Main.java" afterDir="false" />
@@ -14,6 +14,98 @@
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_01_CarTask/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_02_BankAccount/BankAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/_01_JavaAdvanced/_06_DefiningClasses/Lab/_02_BankAccount/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_MultipleImplementation/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_MultipleImplementation/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_MultipleImplementation/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_MultipleImplementation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_MultipleImplementation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_01_CardSuit/CardSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_01_CardSuit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_02_CardRank/CardRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_02_CardRank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_04_TrafficLight/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_04_TrafficLight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_01_WorkingWithAbstraction/Exercise/_04_TrafficLight/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_01_ClassBox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_01_ClassBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_02_AnimalFarm/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_02_AnimalFarm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_03_ShoppingSpree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_03_ShoppingSpree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_03_ShoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_04_PizzaCalories/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_04_PizzaCalories/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_04_PizzaCalories/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_04_PizzaCalories/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_04_PizzaCalories/ToppingTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_05_FootballTeamGenerator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_05_FootballTeamGenerator/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Exercise/_05_FootballTeamGenerator/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_01_SortByNameAndAge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_01_SortByNameAndAge/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_02_SalaryIncrease/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_02_SalaryIncrease/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_03_ValidationData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_03_ValidationData/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_04_FirstAndReserveTeam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_04_FirstAndReserveTeam/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_02_Encapsulation/Lab/_04_FirstAndReserveTeam/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_01_Person/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_01_Person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_01_Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Lizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_02_Zoo/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/BladeKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/DarkKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/DarkWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/MuseElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/SoulMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_03_PlayersAndMonsters/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/CrossMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/FamilyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/RaceMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_04_NeedForSpeed/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/ColdBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/HotBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/MainDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Soup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_05_Resturant/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Kitten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Exercise/_06_Animals/Tomcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Lab/_01_SingleInheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Lab/_01_SingleInheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_03_Inheritance/Lab/_01_SingleInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_04_InterfacesAndAbstraction/Exercise/_01_DefineAnInterfacePerson/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_04_InterfacesAndAbstraction/Exercise/_01_DefineAnInterfacePerson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_OOP/_04_InterfacesAndAbstraction/Exercise/_01_DefineAnInterfacePerson/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +116,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,20 +142,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yavor/Desktop/SoftUni-JavaDev/Java Advanced&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/yavor/Desktop/SoftUni-JavaDev/Java Advanced/src/_02_MultipleImplementation",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
-  <component name="RunManager" selected="Application._04_MatchingBrackets">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_02_MultipleImplementation" />
+      <recent name="$PROJECT_DIR$/src/_04_FirstAndReserveTeam" />
+      <recent name="$PROJECT_DIR$/src/_03_ValidationData" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_02_SalaryIncrease" />
+      <recent name="_01_ClassBox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._02_MultipleImplementation.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._06_DefiningClasses.Exercises._01_OpinionPoll.Main" />
+      <option name="MAIN_CLASS_NAME" value="_01_DefineAnInterfacePerson.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._06_DefiningClasses.Exercises._01_OpinionPoll.*" />
+          <option name="PATTERN" value="_01_DefineAnInterfacePerson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" />
+    <configuration name="_01_Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Person.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.*" />
+          <option name="PATTERN" value="_01_Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._02_SimpleCalculator" />
+    <configuration name="_02_MultipleImplementation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_MultipleImplementation.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="_02_MultipleImplementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._03_DecimalToBinaryConverter" />
+    <configuration name="_02_OOP._03_Inheritance.Exercise._06_Animals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_OOP._03_Inheritance.Exercise._06_Animals.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="_02_OOP._03_Inheritance.Exercise._06_Animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_JavaAdvanced._01_StacksAndQueues.Lab._04_MatchingBrackets" />
+    <configuration name="_02_OOP._03_Inheritance.Lab._01_SingleInheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_OOP._03_Inheritance.Lab._01_SingleInheritance.Main" />
       <module name="Java Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_JavaAdvanced._01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="_02_OOP._03_Inheritance.Lab._01_SingleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._04_MatchingBrackets" />
-        <item itemvalue="Application._03_DecimalToBinaryConverter" />
-        <item itemvalue="Application._02_SimpleCalculator" />
-        <item itemvalue="Application._01_JavaAdvanced._06_DefiningClasses.Lab._01_CarTask.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application._02_MultipleImplementation.Main" />
+        <item itemvalue="Application._02_OOP._04_InterfacesAndAbstraction.Exercise._01_DefineAnInterfacePerson.Main" />
+        <item itemvalue="Application._02_OOP._03_Inheritance.Lab._01_SingleInheritance.Main" />
+        <item itemvalue="Application._02_OOP._03_Inheritance.Exercise._06_Animals.Main" />
+        <item itemvalue="Application._02_OOP._03_Inheritance.Exercise._01_Person.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688395922970</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added task 03.DecimalToBinaryConverter and 04.MarchingBrackets -&gt; Stacks and Queues">
+      <option name="closed" value="true" />
+      <created>1688413852269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688413852269</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +366,8 @@
     <MESSAGE value="Added task 09.PopulationCenter" />
     <MESSAGE value="Added task 12.SrubskoUnleashed" />
     <MESSAGE value="Added task 01.OpinionPoll -&gt; Defining Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task 01.OpinionPoll -&gt; Defining Classes" />
+    <MESSAGE value="Added task 03.DecimalToBinaryConverter and 04.MarchingBrackets -&gt; Stacks and Queues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task 03.DecimalToBinaryConverter and 04.MarchingBrackets -&gt; Stacks and Queues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -259,11 +376,6 @@
           <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_03_SetsAndMapsAdvanced/Exercise/_08_UserLogs.java</url>
           <line>34</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01_JavaAdvanced/_01_StacksAndQueues/Lab/_04_MatchingBrackets.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
